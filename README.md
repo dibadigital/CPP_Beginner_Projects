@@ -3,4 +3,4 @@ C++ Procedural Programming Course on YouTube
 
 YouTube Channel: https://www.youtube.com/@dibadigital
 
-1- J1_BeginnerCPP_Proj1
+1- CPP1_J1_P1
